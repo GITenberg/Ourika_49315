@@ -1,4 +1,8 @@
 _repo: Ourika_49315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Duras, Claire de Durfort, duchesse de
@@ -15,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Claire_de_Duras
     - http://en.wikipedia.org/wiki/Claire_de_Duras
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49315#Ourika
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
